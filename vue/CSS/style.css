@@ -13,21 +13,14 @@ body{
 }
 
 header{
-    order: 1;
+    
     background-color: rgb(4, 4, 71);
 }
 
 .corps{
-    order: 2;
     width: 70%;
-    height: 80%;
-    position: absolute;
-    top: 50%;
-    left: 20%;
-    
 }
 
 footer{
-    order:10;
-    position: static bottom;
+    position: static;
 }
